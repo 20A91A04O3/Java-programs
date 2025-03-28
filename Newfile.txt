@@ -2,4 +2,8 @@ Hi im added in local
 
 Modified in central
 
+<<<<<<< Updated upstream
 Good morning royy!!!
+=======
+Good afternoon dear
+>>>>>>> Stashed changes
